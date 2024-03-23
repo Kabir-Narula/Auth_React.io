@@ -42,7 +42,7 @@ When using token-based authentication, you typically receive an `access_token` a
     }
   });
 
-  # Bearer Token
+# Bearer Token
 
 A **bearer token** is a token that is sent in the Authorization header of HTTP requests. Unlike cookies, bearer tokens are not automatically stored or sent by the browser; they must be manually handled by the client application.
 
